@@ -1,6 +1,4 @@
-# Jatin
-
-<a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+## Hi there 👋
 
 <!--
 **jatin-sdev/jatin-sdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
