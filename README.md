@@ -10,21 +10,25 @@
 
 </div>
 
-<div style="display: flex; align-items: stretch; gap: 32px; width: 100%;">
-  <div style="flex: 1; min-width: 300px; display: flex; flex-direction: column; justify-content: stretch;">
-    <img style="max-width: 100%; height: 300px; object-fit: contain; display: block;" alt="Programming GIF" src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/coder.gif" />
-  </div>
-  <div style="flex: 1; min-width: 300px; display: flex; flex-direction: column; justify-content: stretch;">
-    <div style="flex: 1 1 auto; display: flex; flex-direction: column; justify-content: space-between; height: 100%;">
-      <h2><img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25"> About Me</h2>
-      <p>I am Jatin, a student and tech enthusiast with a passion for software development. I thrive in the dynamic world of technology. My focus is on collaboration and community support as I strive to inspire others to push their boundaries and pursue greatness. I move fast, learn faster, and mildly over-caffeinated. Constantly exploring new technologies, quick to pick up new tech (Agentic AI is on my radar). Let's create innovative solutions together!</p>
-      <blockquote><em>Turning coffee into features and bugs into lessons.</em> ☕</blockquote>
-      <ul>
-        <li>🔭 I’m currently working on something cool!😉</li>
-        <li>👯 I’m looking forward to collaborate on Web projects.</li>
-      </ul>
-    </div>
-  </div>
+<div>
+<p align="center" >
+ <img  height="300rem" alt="Programming GIF" src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/coder.gif" />
+</p>
+<!-- https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif -->
+<br>
+
+## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25"> About Me
+
+I am Jatin, a student and tech enthusiast with a passion for software development. I thrive in the dynamic world of technology. My focus is on collaboration and community support as I strive to inspire others to push their boundaries and pursue greatness. I move fast, learn faster, and mildly over-caffeinated. Constantly exploring new technologies, quick to pick up new tech (Agentic AI is on my radar). Let's create innovative solutions together!
+
+> _Turning coffee into features and bugs into lessons._ ☕
+
+<br>
+
+- 🔭 I’m currently working on something cool!😉
+
+- 👯 I’m looking forward to collaborate on Web projects.
+<br>
 </div>
 
 ## 🧰 Languages and Tools
