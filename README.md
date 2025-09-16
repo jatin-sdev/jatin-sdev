@@ -12,7 +12,7 @@
 
 <div>
 <p align="center" >
- <img  height="300rem" alt="Programming GIF" src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/coder.gif" />
+ <img  height="200rem" alt="Programming GIF" src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/coder.gif" />
 </p>
 <!-- https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif -->
 <br>
