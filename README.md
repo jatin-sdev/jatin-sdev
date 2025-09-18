@@ -13,7 +13,7 @@
 
 <div>
 <a target="_blank" align="center" >
- <img align="right" top="500" height="450" width="450" alt="GIF" src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/coder.gif" />
+ <img align="right" top="500" height="400" width="400" alt="GIF" src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/coder.gif" />
 </a>
 <!-- https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif -->
 <br>
