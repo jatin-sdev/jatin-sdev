@@ -1,18 +1,19 @@
 <h1 align="center">Hi!, I'm Jatin <img src=
 "https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 <!--horizontal divider(gradiant)-->
-<div align="center">
-<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></div>
+
 
 <div align="center" style="border: px solid #000000;>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=&center=true&vCenter=true&width=900&height=30&lines=Active+Learner/Researcher;Self-taught+Fullstack+Developer;AIML+Enthusiast;Growing+Agentic+AI+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=&center=true&vCenter=true&width=900&height=30&lines=Active+Learner/Researcher;Self-taught+Fullstack+Developer;Machine+Learning+Enthusiast;Growing+Agentic+AI+Developer;Grinding+Data+Str+and+Algo)](https://git.io/typing-svg)
 
 </div>
+<div align="center">
+<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></div>
 
 <div>
 <a target="_blank" align="center" >
- <img align="right" top="500" height="500" width="500" alt="GIF" src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/coder.gif" />
+ <img align="right" top="500" height="450" width="450" alt="GIF" src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/coder.gif" />
 </a>
 <!-- https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif -->
 <br>
@@ -22,13 +23,12 @@
 I am Jatin, a student and tech enthusiast with a passion for software development. I thrive in the dynamic world of technology. My focus is on collaboration and community support as I strive to inspire others to push their boundaries and pursue greatness. I move fast, learn faster, and mildly over-caffeinated. Constantly exploring new technologies, quick to pick up new tech (Agentic AI is on my radar). Let's create innovative solutions together!
 </p>
 
-_Turning coffee into features and bugs into lessons._ ☕
-
-<br>
+>*"Turning coffee into features and bugs into lessons."* ☕
 
 - 🔭 I’m currently working on something cool!😉
 
 - 👯 I’m looking forward to collaborate on Web projects.
+
 <br>
 </div>
 
