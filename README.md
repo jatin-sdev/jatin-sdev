@@ -11,17 +11,18 @@
 </div>
 
 <div>
-<p align="center" >
- <img  height="150rem" alt="Programming GIF" src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/coder.gif" />
-</p>
+<a target="_blank" align="center" >
+ <img align="right" top="500" height="500" width="500" alt="GIF" src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/coder.gif" />
+</a>
 <!-- https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif -->
 <br>
 
-## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25"> About Me
-
+<h3><b><u>🚀 About Me </u></b></h3>
+<p align="justify">
 I am Jatin, a student and tech enthusiast with a passion for software development. I thrive in the dynamic world of technology. My focus is on collaboration and community support as I strive to inspire others to push their boundaries and pursue greatness. I move fast, learn faster, and mildly over-caffeinated. Constantly exploring new technologies, quick to pick up new tech (Agentic AI is on my radar). Let's create innovative solutions together!
+</p>
 
-> _Turning coffee into features and bugs into lessons._ ☕
+_Turning coffee into features and bugs into lessons._ ☕
 
 <br>
 
