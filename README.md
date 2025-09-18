@@ -73,7 +73,7 @@ I am Jatin, a student and tech enthusiast with a passion for software developmen
 <br>
 <div align="center">
 <div align="center">
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&text=Happy%20Coding&reversal=false&descAlignY=50&section=footer&textBg=false&animation=twinkling&fontColor=ffffff&fontSize=20&fontAlignY=78" />
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&text=Happy%20Coding!&reversal=false&descAlignY=50&section=footer&textBg=false&animation=twinkling&fontColor=ffffff&fontSize=20&fontAlignY=78" />
 </div>
 <!-- <a href="mailto:jatin.sdev@example.com">
   <img align="left" src="https://user-images.githubusercontent.com/88904952/234981069-1f0601e1-432d-4a25-b4c4-29d9522303c1.png" width="48" />
