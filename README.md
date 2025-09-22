@@ -8,10 +8,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=&center=true&vCenter=true&width=900&height=30&lines=Active+Learner/Researcher;Self-taught+Fullstack+Developer;Machine+Learning+Enthusiast;Growing+Agentic+AI+Developer;Grinding+Data+Str+and+Algo)](https://git.io/typing-svg)
 
 </div>
-<div align="center">
-<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></div>
 
-<div>
 <a target="_blank" align="center" >
  <img align="right" top="500" height="400" width="400" alt="GIF" src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/coder.gif" />
 </a>
@@ -27,14 +24,17 @@ I am Jatin, a student and tech enthusiast with a passion for software developmen
 
 - 🔭 I’m currently working on something cool!😉
 
-- 👯 I’m looking forward to collaborate on Web projects.
+- 💫 I’m looking forward to collaborate on Web projects.
 
 <br>
 </div>
 
-## 🧰 Languages and Tools
+<h3><b><u> 🧰 Languages and Tools </u></b></h3>
+<div align="center">
+<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></div>
 
 <div align="center">
+<br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React.js" alt="React" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind CSS" alt="Tailwind" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="50" height="50"/>
@@ -57,10 +57,8 @@ I am Jatin, a student and tech enthusiast with a passion for software developmen
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="50" height="50"/>
 </div>
 <br />
-
-<br>
-
-## 🤝 Contact Me
+<h3><b><u> 🤝 Contact Me </u></b></h3>
+<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></div>
 
 <div align="center"><!-----Social Accounts------>
 <div align="center">
@@ -69,12 +67,13 @@ I am Jatin, a student and tech enthusiast with a passion for software developmen
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](mailto:jatin.sdev@gmail.com)
   [![Follow on X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/jatin.sdev)
   [![Follow on GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jatin-sdev)
+  [![View My Portfolio](https://img.shields.io/badge/Portfolio-4682B4?style=for-the-badge&logo=briefcase&logoColor=white)](https://portfolio-six-alpha-ttbamqj7j7.vercel.app/)
 </div>
 </div>
 <br>
 <div align="center">
 <div align="center">
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&text=Happy%20Coding!&reversal=false&descAlignY=50&section=footer&textBg=false&animation=twinkling&fontColor=ffffff&fontSize=20&fontAlignY=78" />
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&text=Happy%20Coding!&reversal=false&descAlignY=50&section=footer&textBg=false&animation=twinkling&fontColor=ffffff&fontSize=20&fontAlignY=78" />
 </div>
 <!-- <a href="mailto:jatin.sdev@example.com">
   <img align="left" src="https://user-images.githubusercontent.com/88904952/234981069-1f0601e1-432d-4a25-b4c4-29d9522303c1.png" width="48" />
