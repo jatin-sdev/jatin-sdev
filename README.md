@@ -17,7 +17,7 @@
 
 <h3><b><u>🚀 About Me </u></b></h3>
 <p align="justify">
-I am Jatin, a student and tech enthusiast with a passion for software development. I thrive in the dynamic world of technology. My focus is on collaboration and community support as I strive to inspire others to push their boundaries and pursue greatness. I move fast, learn faster, and mildly over-caffeinated. Constantly exploring new technologies, quick to pick up new tech (Agentic AI is on my radar). Let's create innovative solutions together!
+I am Jatin, a student and tech enthusiast with a passion for software development. I thrive in the dynamic world of technology. My focus is on collaboration and community support. I move fast, learn faster, and mildly over-caffeinated. Constantly exploring new technologies, quick to pick up new tech (Agentic AI is on my radar). Let's create innovative solutions together!
 </p>
 
 >*"Turning coffee into features and bugs into lessons."* ☕
