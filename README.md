@@ -29,7 +29,7 @@ I am Jatin, a student and tech enthusiast with a passion for software developmen
 <br>
 </div>
 
-<h3><b><u> 🧰 Languages and Tools </u></b></h3>
+<h3><b><u> 🛠️ The Arsenal </u></b></h3>
 <div align="center">
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></div>
 
