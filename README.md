@@ -62,7 +62,7 @@ I am Jatin, a student and tech enthusiast with a passion for software developmen
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jatin-sdev&theme=tokyonight&hide_border=true&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="Jatin's Streak" width="100%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jatin-sdev&theme=tokyonight&hide_border=true&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="Jatin's Streak" width="60%" />
 </div>
 
 <h3><b><u> 🤝 Contact Me </u></b></h3>
