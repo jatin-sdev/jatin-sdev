@@ -73,9 +73,26 @@ I am Jatin, a student and tech enthusiast with a passion for software developmen
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=jatin-sdev&bg_color=0d1117&color=7F5AF0&line=7F5AF0&point=FFFFFF&hide_border=true" width="100%" />
 </div>
-   
-      
- 
+
+<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></div>
+<div align="center">
+  
+  <picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+  
+</div>
 
 <h3><b><u> 🤝 Contact Me </u></b></h3>
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></div>
