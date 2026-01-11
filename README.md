@@ -58,13 +58,21 @@ I am Jatin, a student and tech enthusiast with a passion for software developmen
 </div>
 <br />
 
+<!-- Mission Status & Contribution Timeline: side-by-side using a table (works on GitHub README) -->
 <h3><b><u> 📊 Mission Status & 📅 Contribution Timeline </u></b></h3>
-<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></div>
 
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jatin-sdev&theme=tokyonight&hide_border=true&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="Jatin's Streak" width="50%" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jatin-sdev&bg_color=0d1117&color=7F5AF0&line=7F5AF0&point=FFFFFF&hide_border=true" width="50%" />
-</div>
+<table align="center" style="width:100%; max-width:1000px;">
+  <tr>
+    <td align="center" style="width:50%; vertical-align:top;">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=jatin-sdev&theme=tokyonight&hide_border=true&background=0d1117&date_format=M%20j%5B%2C%20Y%5D"
+           alt="Jatin's Streak" style="max-width:100%; height:auto;" />
+    </td>
+    <td align="center" style="width:50%; vertical-align:top;">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=jatin-sdev&bg_color=0d1117&color=7F5AF0&line=7F5AF0&point=FFFFFF&hide_border=true"
+           alt="Contribution Graph" style="max-width:100%; height:auto;" />
+    </td>
+  </tr>
+</table>
 
 <h3><b><u> 🤝 Contact Me </u></b></h3>
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></div>
