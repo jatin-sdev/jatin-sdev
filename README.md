@@ -61,7 +61,8 @@ I am Jatin, a student and tech enthusiast with a passion for software developmen
 <h3><b><u> 📊 Mission Status </u></b></h3>
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></div>
 
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jatin-sdev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true&include_all_commits=true" alt="Jatin's Stats" width="100%" />
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jatin-sdev&theme=tokyonight&hide_border=true&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="Jatin's Streak" width="100%" />
 </div>
 
 <h3><b><u> 🤝 Contact Me </u></b></h3>
