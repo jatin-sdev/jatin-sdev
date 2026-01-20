@@ -59,13 +59,13 @@ I am Jatin, a student and tech enthusiast with a passion for software developmen
 <br />
 
 <!-- Mission Status & Contribution Timeline: side-by-side using a table (works on GitHub README) -->
-<h3><b><u> 📊 Mission Status </u></b></h3>
+<!-- <h3><b><u> 📊 Mission Status </u></b></h3>
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></div>
 
 <div align="center">
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jatin-sdev&theme=tokyonight&hide_border=true&background=0d1117&date_format=M%20j%5B%2C%20Y%5D"
        alt="Jatin's Streak" style="max-width:100%; height:auto;" />
-</div>
+</div> -->
 
 <h3><b><u> 📅 Contribution Timeline </u></b></h3>
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></div>
